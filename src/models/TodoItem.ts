@@ -1,4 +1,4 @@
 export interface ToDoItem {
-    name: String;
-    id: Number
+    name?: String;
+    id?: Number
 }
